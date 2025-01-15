@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors Game
+# [Rock-Paper-Scissors Game](https://kennethalee.github.io/odin-rock-paper-scissors/)
 
 This project is a simple console-based Rock-Paper-Scissors game developed in JavaScript. It was created as part of my journey to strengthen my programming skills and understanding of fundamental game mechanics.
 
